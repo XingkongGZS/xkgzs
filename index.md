@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/XingkongGZS/test-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-![image](https://ibb.co/LQyzcmM)
+![image](https://octodex.github.com/images/yaktocat.png)
 ![Link to baidu](https://www.baidu.com/)
 ### Markdown
 
