@@ -23,8 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Image](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=小猪佩奇图片&step_word=&hs=0&pn=20&spn=0&di=112200&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3262515978%2C2114583566&os=1430880805%2C1801107958&simid=3387601007%2C267358449&adpicid=0&lpn=0&ln=1456&fr=&fmq=1626307538769_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180712%2F33c026d72bce4505965cf9e6a94fb7c9.jpeg%26refer%3Dhttp%3A%2F%2F5b0988e595225.cdn.sohucs.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1628899549%26t%3Dae1a38db798ff27f410a8dbddbe3b971&fromurl=ippr_z2C%24qAzdH3FAzdH3F4p_z%26e3Bf5i7_z%26e3Bv54AzdH3Fda8ba08dAzdH3Fgc9nna8nal_z%26e3Bfip4s&gsm=1c&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
